@@ -37,7 +37,7 @@ selectedOption = input("select option: ")
 if (selectedOption == "1"):
      login()
 elif (selectedOption == "2"):
-    reg
+    reg()
 else:
    exit()
     
